@@ -1,0 +1,15 @@
+.custom-bg{
+    background-image: linear-gradient(#212529,gray );
+}
+
+.active{
+    font-weight: bold;
+}
+
+.carousel-item img{
+    height: 60vh;
+}
+
+.card img{
+    height: 40vh;
+}
